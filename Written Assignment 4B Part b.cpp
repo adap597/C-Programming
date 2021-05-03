@@ -1,6 +1,11 @@
+/*If you choose to answer problem 1 in Section B, you must complete both parts a and b.
+a. Write a C program that has a declaration in main() to store the following numbers into an array named channels: 2, 4, 5, 7, 9, 11, 13. 
+There should be a function call to display() that accepts the channels as an argument named channels and then displays the numbers 
+using the pointer notation *(channels + i).
+b. Modify this display() function to alter the address in channels. Always use the expression *channels rather than *(channels + i) to retrieve the correct elements.
+*/
+
 // Written Assignment 4B Part b.cpp : This program uses a function to display the array channels using pointer notation *channels
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.:OL009
