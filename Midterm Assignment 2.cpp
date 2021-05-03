@@ -1,7 +1,11 @@
+/*Write a loop using a sentinel value. The sentinel value will be "999" and when this number is entered, the loop will end. 
+The user will enter a number. You will examine the number and determine if it is even or odd. 
+If it is even, you will add one to the even counter. If it is odd, add one to the odd counter.
+When the loop has ended, print out a message telling how many even and odd numbers were entered. 
+*/
+
 // Midterm Assignment 2.cpp : This program asks the user to enter a variable number of integers.
 //Once the user has entered the sentinal value to exit the program, it determines the number of even and odd integers entered. 
-//Name: Aurora DiPeso
-//University ID:0663597
 //Thomas Edison State University
 //C Programming: COS-116
 //Section No.: OL009
