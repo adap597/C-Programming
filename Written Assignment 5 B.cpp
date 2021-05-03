@@ -1,8 +1,11 @@
+/*Create a structure that has one variable called value and one pointer to the list (making it a linked list). 
+Prompt for 5 values from the keyboard as input and store them in the linked list. Print out the current contents of the list. 
+Allow the user to add one more value to the linked list, and print the contents of the list again.
+*/
+
 // Written Assignment 5 B.cpp : This program creates a structure with one variable called value. The program prompts the user 
 //for input and stores them in a linked list. The program will print the contents of the list.
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
