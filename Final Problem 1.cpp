@@ -1,7 +1,12 @@
+/*Begin this program by creating two arrays of integers, each holding ten elements of data. 
+Create a third array of integers for a result array. Your main program will take the two arrays of integers and pass them to the function subtract(). 
+Inside the function, subtract the first array from the second array and put the difference into the third array. 
+Print the values of all three arrays back in the main program. 
+*/
+
 // Final Problem 1.cpp : This program creates 2 arrays with ten elements each, then finds the difference. 
 //The first, second, and results array are displayed in the console window. 
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
