@@ -1,6 +1,6 @@
+//Write a program to generate and display a table of n and n2, for integer values of n ranging from 1 through 10. Be sure to print appropriate column headings.
+
 // Written Assignment 3A.cpp : This program generates a table of integer values and their squares ranging from 1 to 10
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C Programming: COS-116
 //Section No.: OL009
