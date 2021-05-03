@@ -1,6 +1,8 @@
+/*Write a C program which defines and uses a macro min(x,y) that, when given two numbers, returns the smaller of the two. 
+*/
+
 // Final Problem 3.cpp : This program uses a macro to determine the smallest of two integers provided by the user. 
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
