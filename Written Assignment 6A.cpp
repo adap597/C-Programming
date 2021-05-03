@@ -1,8 +1,12 @@
+/*Write a program to prompt a user for a file name. Count:
+the number of characters in the file (letters or numbers)
+the number of words in the file
+the number of lines in the file
+*/
+
 // Written Assignment 6A.cpp : This program requests the user to enter a file name. The program will determine
 //how many lines, words, and characters are in the file.
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
