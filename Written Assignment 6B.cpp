@@ -1,7 +1,11 @@
+/*Create a set/list of enumerated constants called week that contains the days of the week. 
+Have a variable called today that is of type week. Assign a value to today. 
+If the day is Monday through Friday, print "Go to work!" If the day is Saturday or Sunday, print "You can rest today!"
+*/
+
 // Written Assignment 6B.cpp : A program that accepts user input corresponding to days of the week and indicates if it
 //is a work day or rest day. 
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
