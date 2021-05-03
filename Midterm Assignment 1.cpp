@@ -1,6 +1,9 @@
+/*Write a program that requires the user to enter two floating-point numbers (num1 and num2) from the keyboard. 
+Multiply them and display the original two numbers and the calculated floating-point product. 
+When displaying the floating-point numbers, limit your output display to 3 digits after the decimal point (for example, display 23.567810 as 23.568). */        
+
+
 // Midterm Assignment 1.cpp : This program asks the user to enter two floating point numbers. It then multiplies them and displays the original number and the product
-//Name: Aurora DiPeso
-//University ID:0663597
 //Thomas Edison State University
 //C Programming:COS-116
 //Section no.:OL009
