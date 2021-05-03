@@ -1,7 +1,13 @@
+/*Write a C program to determine whether the year entered from the keyboard is a leap year. 
+Display a message indicating whether the year is or is not a leap year. 
+To calculate this problem, a year is a leap year if it is evenly divisible by 4 and not by 100, 
+or if it is evenly divisible by 400. Check the remainder of the division statements by using the % function. 
+(Hint: It may help to have three variables, each one holding the remainder of each of the division problems.) 
+(To check your work, legal leap years are 1952, 1964, 1988, and 2004. Years 1953, 1966, 1990, and 2007 are not leap years.)*/
+
 /* This program determines if a year entered by the user is a leap year and displays a message indicating if it is or not */
-/*Aurora DiPeso
-University ID 0663597
-Thomas Edison State University
+
+/*Thomas Edison State University
 C Programming COS-116
 OL-009 2019OCT*/
 
