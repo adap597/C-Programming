@@ -1,7 +1,10 @@
+
+/*Write a C program containing a linked list of ten integer numbers. Have the program display the numbers in the list. 
+*/
+
 // Final Problem 2.cpp : This program requests the user enter integer numbers. The numbers in the linked list are displayed in the console after
 //the user has completed all entries. It will also display the number of nodes in the list. 
-//Name: Aurora DiPeso
-//University ID: 0663597
+
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
