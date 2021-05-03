@@ -1,8 +1,12 @@
+/*Write a C program that accepts as input from the keyboard a floating point number, an integer, and a character. 
+Each of these inputs should be preceded by a prompt and stored using individual variable names. 
+Have your program call a function that assembles the input data into a single string. 
+Display the assembled string using the puts() call back in main after the function has completed.
+*/
+
 // Written Assignment 5 A.cpp : This program accepts user input of an integer, floating point number and character. The inputs 
 //are combined into a string and displayed. 
 
-//Name: Aurora DiPeso
-//University ID: 0663597
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.:OL009
