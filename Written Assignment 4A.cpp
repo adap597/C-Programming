@@ -1,6 +1,18 @@
-// Written Assignment 4A.cpp : This program takes user input of integers and places them in a 5x5 array. The program adds each each row and each column, then displays the totals.
-//Aurora DiPeso
-//UniversityID: 0663597
+/*Write a program that reads a 5 x 5 two-dimensional array of integers and then prints the row sums and the column sums:
+Enter Row 1:	         	         	         	         	         
+Enter Row 2:					
+Enter Row 3:					
+Enter Row 4:					
+Enter Row 5:
+
+Row Totals:
+
+Column Totals:
+You may either initialize this array within the program or have the user type in the values at run time.
+*/
+
+// Written Assignment 4A.cpp : This program takes user input of integers and places them in a 5x5 array. 
+//The program adds each each row and each column, then displays the totals.
 //Thomas Edison State University
 //C Programming: COS-116
 //Section no.: OL009
