@@ -1,7 +1,10 @@
+/*Write a C program that stores the integer value 5 in the variable save1 and the integer value 2 in the variable save2. 
+(Make sure to declare the variables as integers.) Have your program calculate the total of these numbers and their average. 
+The total should be stored in the variable named total and the average in the variable named average. 
+(Use the statement average = total/2.0; to calculate the average.) Use the printf() function to display the total and average.*/
+
 /* Assignment 1B.cpp : This program stores integer values in two variables and calulates their total and average*/
-/*Aurora DiPeso
-University ID 0663597
-Thomas Edison State University
+/*Thomas Edison State University
 C Programming COS-116
 OL-009 2019OCT*/
 
